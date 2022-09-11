@@ -1,0 +1,12 @@
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\bin\Debug\Ejercicio2_1_Pilas.exe.config
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\bin\Debug\Ejercicio2_1_Pilas.exe
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\bin\Debug\Ejercicio2_1_Pilas.pdb
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.csproj.AssemblyReference.cache
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.Properties.Resources.resources
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.csproj.GenerateResource.cache
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.exe
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.pdb
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.FormColas.resources
+C:\Users\54351\source\repos\Ejercicio2_1_Pilas\Ejercicio2_1_Pilas\obj\Debug\Ejercicio2_1_Pilas.FormPilas.resources
